@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+topics-2.csv/
